@@ -6,13 +6,13 @@
 In this computational lab, we will go through data analysis and visualization for multi-modality epigenetic data using the examples of DBiT-seq spatial transcriptomics data in the [DBiT-seq Cell Paper](https://www.sciencedirect.com/science/article/pii/S0092867420313908?via%3Dihub).
 
 ### Pre-lab task:
-1. Download "L6_nanoCUTTag.Rmd" under "2-27-2025 _ L6 _ scCUT&Tag histone modification/" from Files on Canvas.
+1. Download "DBiT_seq_analysis.R" under "3-6-2024_ L7-1 _ Spatial transcriptomics mapping (1)/" from Files on Canvas.
 
 2. Upload the files to your project folder on HPC:
 
 Open McCleary OnDemand at [beng469.ycrc.yale.edu](https://beng469.ycrc.yale.edu)  in a browser window, and go to **Files** menu and click open your project folder (/gpfs/gibbs/project/beng469/beng469_YourNetID).
 
-Then create a new directory called "**Lab6**" and upload the files ("L6_nanoCUTTag.Rmd") under this new directory. 
+Then create a new directory called "**Lab7_1**" and upload the files ("DBiT_seq_analysis.R") under this new directory. 
 
 ### During the lab session (Thursday):
 
@@ -32,4 +32,4 @@ Then click Launch to launch an Rstudio session, and connect the Rstudio session 
 
 3. Open the R markdown tutorials:
 
-Once you are inside Rstudio, use the file navigation panel at the bottom right to click open your **project**/ folder then the **Lab6**/ folder you created, then click open “**L6_nanoCUTTag.Rmd**” . 
+Once you are inside Rstudio, use the file navigation panel at the bottom right to click open your **project**/ folder then the **Lab7_1**/ folder you created, then click open “**DBiT_seq_analysis.R**” . 
