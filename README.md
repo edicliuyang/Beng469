@@ -3,7 +3,7 @@
 
 # BENG 469 Lab 7-1 - instructions (Spatial transcriptomics analysis of DBiT-seq data)
 
-In this computational lab, we will go through data analysis and visualization for multi-modality epigenetic data using the examples of DBiT-seq spatial transcriptomics data in the paper [https://www.nature.com/articles/s41596-023-00932-6](https://www.sciencedirect.com/science/article/pii/S0092867420313908?via%3Dihub).
+In this computational lab, we will go through data analysis and visualization for multi-modality epigenetic data using the examples of DBiT-seq spatial transcriptomics data in the [DBiT-seq Cell Paper](https://www.sciencedirect.com/science/article/pii/S0092867420313908?via%3Dihub).
 
 ### Pre-lab task:
 1. Download "L6_nanoCUTTag.Rmd" under "2-27-2025 _ L6 _ scCUT&Tag histone modification/" from Files on Canvas.
