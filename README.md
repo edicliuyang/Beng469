@@ -1,9 +1,9 @@
-# Beng469
-Lab7_1 for spatial transcriptomics analysis of DBiT-seq data
 
-# BENG 469 Lab 7-1 - instructions
 
-In this computational lab, we will go through some of the downtream analysis for multi-modality epigenetic data using the examples of Nano CUT&Tag in the paper https://www.nature.com/articles/s41596-023-00932-6.
+
+# BENG 469 Lab 7-1 - instructions (Spatial transcriptomics analysis of DBiT-seq data)
+
+In this computational lab, we will go through data analysis and visualization for multi-modality epigenetic data using the examples of DBiT-seq spatial transcriptomics data in the paper [https://www.nature.com/articles/s41596-023-00932-6](https://www.sciencedirect.com/science/article/pii/S0092867420313908?via%3Dihub).
 
 ### Pre-lab task:
 1. Download "L6_nanoCUTTag.Rmd" under "2-27-2025 _ L6 _ scCUT&Tag histone modification/" from Files on Canvas.
@@ -23,9 +23,9 @@ Go to the Rstudio-server initialization page, and specify the parameters/resourc
 | Parameters      | Values |
 | ----------- | ----------- |
 | R version      | R/4.2.0-foss-2020b       |
-| Number of hours   | 6        |
+| Number of hours   | 2        |
 | Number of CPU cores per node   | 1        |
-| Memory per CPU core in GiB   | 32       |
+| Memory per CPU core in GiB   | 10       |
 | Partitions   | devel / day / education     |
 
 Then click Launch to launch an Rstudio session, and connect the Rstudio session once it’s started
