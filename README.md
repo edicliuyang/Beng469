@@ -3,7 +3,7 @@
 
 # BENG 469 Lab 7-1 - instructions (Spatial transcriptomics analysis of DBiT-seq data)
 
-In this computational lab, we will go through data analysis and visualization for spatial transcriptomics data using the example data in the [DBiT-seq Cell Paper](https://www.sciencedirect.com/science/article/pii/S0092867420313908?via%3Dihub).
+In this computational lab, we will go through data analysis and visualization for spatial transcriptomics data using the example data in the [DBiT-seq Paper](https://www.sciencedirect.com/science/article/pii/S0092867420313908?via%3Dihub).
 
 ### Pre-lab task:
 1. Download "DBiT_seq_analysis.R" under "3-6-2024_ L7-1 _ Spatial transcriptomics mapping (1)/" from Files on Canvas.
