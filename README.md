@@ -30,6 +30,6 @@ Go to the Rstudio-server initialization page, and specify the parameters/resourc
 
 Then click Launch to launch an Rstudio session, and connect the Rstudio session once it’s started
 
-3. Open the R markdown tutorials:
+3. Open the R code:
 
 Once you are inside Rstudio, use the file navigation panel at the bottom right to click open your **project**/ folder then the **Lab7_1**/ folder you created, then click open “**DBiT_seq_analysis.R**” . 
